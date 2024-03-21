@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @SantiagoAlbi
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python/Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SantiagoAlbi/SantiagoAlbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi I'm Santiago Albisetti, connecting the dots backwards, after spending years studying Music and Psychology I developed into the man that I am today. Continuously learning Terraform, Python, Django, MySQL, some Linux and libraries like Pandas, Numpy. Planning to carry on acquiring knowledge in AWS and Big Data tools. I keep the creativity that music gave me and the critical and applicable analysis of Psychology (organizational and cognitive), added to the passion of the light that the data (statistics) provides where it is more valid than "Without data, there is no paradise." I consider that life is a continuous learning, either in knowledge or experiences which lead somewhere, since "No man ever steps in the same river twice". This is how life took me and with my practical, curious and entrepreneurial nature, I decided to embrace the IT world, since it is the present and the future, not only mine, but of the world.Connecting the dots backwards, after spending years studying Music and Psychology I developed into the man that I am today. Continuously learning Terraform, Python, Django, MySQL, some Linux and libraries like Pandas, Numpy. Planning to carry on acquiring knowledge in AWS and Big Data tools. I keep the creativity that music gave me and the critical and applicable analysis of Psychology (organizational and cognitive), added to the passion of the light that the data (statistics) provides where it is more valid than "Without data, there is no paradise." I consider that life is a continuous learning, either in knowledge or experiences which lead somewhere, since "No man ever steps in the same river twice". This is how life took me and with my practical, curious and entrepreneurial nature, I decided to embrace the IT world, since it is the present and the future, not only mine, but of the world.
